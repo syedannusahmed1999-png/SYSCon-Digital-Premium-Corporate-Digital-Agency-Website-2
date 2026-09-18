@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-heading: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+
+  --color-brand-light: #B8E5FA;
+  --color-corporate-navy: #0B1F3A;
+  --color-digital-blue: #2F80ED;
+  --color-soft-blue: #EAF6FC;
+  --color-light-gray: #F4F7FA;
+  --color-text-gray: #526477;
+  --color-border-gray: #DCE7EF;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: #0B1F3A;
+  background-color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+

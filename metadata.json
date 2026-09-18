@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Syscon Digital",
+  "description": "World-class corporate digital agency delivering strategy, design, and enterprise technology solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
